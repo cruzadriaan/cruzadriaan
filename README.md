@@ -31,7 +31,7 @@ I’m a developer who believes that a great user interface is where logic meets 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/adrian-cruzdev/)
 - [Portfolio/Website](Your-Link-Here)
-- [Email](adriancruzemail@gmail.com)
+- [Email](mailto:adriancruzemail@gmail.com)
 
 ---
 *"Turning 'it's broken' into 'it works' since day one."*
